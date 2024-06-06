@@ -45,5 +45,5 @@ class Hotel
 
 class Customer
 {
-    
+    cout<<"HELLO";
 };
